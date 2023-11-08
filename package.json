@@ -1,7 +1,7 @@
 {
+  "homepage": "https://Devyang2002.github.io/Globaldaily-React",
   "name": "globaldaily",
   "version": "0.1.0",
-  "homepage": "https://Devyang2002.github.io/globaldaily",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
